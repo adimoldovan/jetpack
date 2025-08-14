@@ -1,6 +1,6 @@
 # Jetpack Boost End-to-End tests
 
-Automated end-to-end acceptance tests for the Jetpack Boost plugin.
+Automated end-to-end acceptance tests for the Jetpack Boost plugin
 
 **Note**: The Jetpack Boost E2E framework and setup relies heavily on the [e2e commons package](../../../../../tools/e2e-commons). So please familiarise yourself with it first. Also, you might want to review the Jetpack E2E [documentation](../../../jetpack/tests/e2e/README.md) which does contains a lot of information regarding the E2E framework and setup which is not repeated here for the sake of brevity.
 
