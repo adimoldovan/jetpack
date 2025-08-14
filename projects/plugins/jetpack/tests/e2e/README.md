@@ -2,7 +2,7 @@
 
 # Jetpack End-to-End tests
 
-Automated end-to-end acceptance tests for the Jetpack plugin.
+Automated end-to-end acceptance tests for the Jetpack plugin
 
 These tests are using the [e2e commons package](../../../../../tools/e2e-commons). Please refer to [their docs](../../../../../tools/e2e-commons/README.md) for more detailed information.
 
