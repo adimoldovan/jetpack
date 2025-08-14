@@ -4,7 +4,7 @@ export default {
 	...baseConfig,
 	use: {
 		...baseConfig.use,
-		actionTimeout: 40 * 1000,
+		actionTimeout: 30 * 1000,
 	},
 	projects: [
 		...setupProjects.filter( project => project.name !== 'connection setup' ),
